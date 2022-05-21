@@ -1,6 +1,0 @@
-<Map
-              center={center}
-              directionResponse={directionResponse}
-              map={map}
-              setMap={setMap}
-            />
